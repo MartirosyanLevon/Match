@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/Scripts" t="Include">
+        <e p="BackgroundTile.cs" t="Include" />
+        <e p="Board.cs" t="Include" />
+        <e p="Button.cs" t="Include" />
+        <e p="DontDestroyOnLoadPage.cs" t="Include" />
+        <e p="Figur.cs" t="Include" />
+        <e p="GameControl.cs" t="Include" />
+        <e p="Home.cs" t="Include" />
+        <e p="levle.cs" t="Include" />
+        <e p="options.cs" t="Include" />
+        <e p="play.cs" t="Include" />
+        <e p="text.cs" t="Include" />
+        <e p="volume.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Matc 3.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Matc 3.2059789701.00" t="ExcludeRecursive" />
+  </component>
+</project>
